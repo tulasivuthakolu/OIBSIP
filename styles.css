@@ -1,0 +1,20 @@
+body {
+    background-image: url('your-background-image.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.game-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+input, button {
+    margin-top: 10px;
+}
